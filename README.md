@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <a href="https://lisboadas.dev/">
   <div>
     <img style="float: left; margin-right: 5px; height: 150px;" src="https://github-readme-stats.vercel.app/api?username=lisboadas&show_icons=true&theme=synthwave&count_private=true&hide_border=true&include_all_commits=true" />
-    <img style="float: left; margin-right: 5px; height: 150px;" src="https://github-readme-stats.vercel.app/api/wakatime?username=Lisboadas&theme=synthwave&hide_border=true&compact=true&show_icons=true"
+    <img style="float: left; margin-right: 5px; height: 150px;" src="https://github-readme-stats.vercel.app/api/wakatime?username=Lisboadas&theme=synthwave&hide_border=true&compact=true&show_icons=true&range=last_7_days"
   </div>
 </a>
 
