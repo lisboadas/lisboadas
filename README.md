@@ -16,12 +16,15 @@ Here are some ideas to get you started:
 -->
 <a href="https://lisboadas.dev/">
   <div>
-    <img style="float: left; margin-right: 15px;" src="https://github-readme-stats.vercel.app/api?username=lisboadas&show_icons=true&theme=synthwave&count_private=true&hide_border=true&include_all_commits=true" />
-    <img style="float: left; margin-right: 15px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lisboadas&show_icons=true&theme=synthwave&count_private=true&hide_border=true&layout=compact" />
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Lisboadas&theme=synthwave&hide_border=true&layout=compact"
+    <img style="float: left; margin-right: 5px; height: 200px;" src="https://github-readme-stats.vercel.app/api?username=lisboadas&show_icons=true&theme=synthwave&count_private=true&hide_border=true&include_all_commits=true" />
+    <img style="float: left; margin-right: 5px; height: 200px;" src="https://github-readme-stats.vercel.app/api/wakatime?username=Lisboadas&theme=synthwave&hide_border=true&compact=true&show_icons=true"
   </div>
 </a>
 
-  ##
+### Redes Sociais:
   
- 
+<div>
+  <a href="https://instagram.com/lisboadas" target="_blank"><img style="float: left; margin-right: 15px;" src="https://lisboadas.dev/images/github/discord%20social%20github.png" /></a>
+  <a href="https://instagram.com/lisboadas" target="_blank"><img style="float: left; margin-right: 15px;" src="https://lisboadas.dev/images/github/instagram%20social%20github.png" /></a>
+  <a href="https://instagram.com/lisboadas" target="_blank"><img style="float: left; margin-right: 15px;" src="https://lisboadas.dev/images/github/portfolio%20social%20github.png" /></a>
+</div>
