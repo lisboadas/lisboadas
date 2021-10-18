@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ### Redes Sociais:
   
 <div>
-  <a href="https://instagram.com/lisboadas" target="_blank"><img style="float: left; margin-right: 15px;" src="https://lisboadas.dev/images/github/discord%20social%20github.png" /></a>
+  <a href="https://discord.gg/Hr8xZ6D" target="_blank"><img style="float: left; margin-right: 15px;" src="https://lisboadas.dev/images/github/discord%20social%20github.png" /></a>
   <a href="https://instagram.com/lisboadas" target="_blank"><img style="float: left; margin-right: 15px;" src="https://lisboadas.dev/images/github/instagram%20social%20github.png" /></a>
-  <a href="https://instagram.com/lisboadas" target="_blank"><img style="float: left; margin-right: 15px;" src="https://lisboadas.dev/images/github/portfolio%20social%20github.png" /></a>
+  <a href="https://lisboadas.art/" target="_blank"><img style="float: left; margin-right: 15px;" src="https://lisboadas.dev/images/github/portfolio%20social%20github.png" /></a>
 </div>
