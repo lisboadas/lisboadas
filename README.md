@@ -1,4 +1,4 @@
-### E ae carai! Eu sou o Lisboa 👋
+### E ae carai! Eu sou o Lisboa e eu não faço muita ideia do que por aqui, um dia terá algo interessante 👋
 
 <!--
 **lisboadas/lisboadas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
