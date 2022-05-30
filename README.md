@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 </div>
 <div>
   <img style="float: left; margin-rigth: 15px;" src="https://lisboadas.info/api/badge/1/status?upLabel=VPS%20BOTS%201&downLabel=VPS%20BOTS%201">
-  <img style="float: left; margin-rigth: 15px;" src="https://lisboadas.info/api/badge/1/uptime/24?labelPrefix=&label=24h&labelSuffix=&prefix=&suffix=%">
-  <img style="float: left; margin-rigth: 15px;" src="https://lisboadas.info/api/badge/1/ping/24?labelPrefix=&label=Ping&labelSuffix=&prefix=&suffix=ms">
+  <img style="float: left; margin-rigth: 15px;" src="https://lisboadas.info/api/badge/1/uptime/720?labelPrefix=&label=Uptime&labelSuffix=&prefix=&suffix=%&style=social">
+  <img style="float: left; margin-rigth: 15px;" src="https://lisboadas.info/api/badge/1/ping/720?labelPrefix=&label=30&labelSuffix=d&prefix=&suffix=ms&style=social">
 </div>
 <div>
   <img style="float: left; margin-rigth: 15px;" src="https://lisboadas.info/api/badge/2/status?upLabel=VPS%20BOTS%202&downLabel=VPS%20BOTS%202">
-  <img style="float: left; margin-rigth: 15px;" src="https://lisboadas.info/api/badge/2/uptime/24?labelPrefix=&label=24h&labelSuffix=&prefix=&suffix=%">
-  <img style="float: left; margin-rigth: 15px;" src="https://lisboadas.info/api/badge/2/ping/24?labelPrefix=&label=Ping&labelSuffix=&prefix=&suffix=ms">
+  <img style="float: left; margin-rigth: 15px;" src="https://lisboadas.info/api/badge/2/uptime/720?labelPrefix=&label=Uptime&labelSuffix=&prefix=&suffix=%&style=social">
+  <img style="float: left; margin-rigth: 15px;" src="https://lisboadas.info/api/badge/2/ping/720?labelPrefix=&label=30&labelSuffix=d&prefix=&suffix=ms&style=social">
 </div>
