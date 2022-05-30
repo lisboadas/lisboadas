@@ -29,12 +29,12 @@ Here are some ideas to get you started:
   <a href="https://lisboadas.art/" target="_blank"><img style="float: left; margin-right: 15px;" src="https://lisboadas.dev/images/github/portfolio%20social%20github.png" /></a>
 </div>
 <div>
-  <img style="float: left; margin-rigth: 15px;" src="https://lisboadas.info/api/badge/1/status?upLabel=VPS%20BOTS%201&downLabel=VPS%20BOTS%201">
-  <img style="float: left; margin-rigth: 15px;" src="https://lisboadas.info/api/badge/1/uptime/720?labelPrefix=&label=Uptime&labelSuffix=&prefix=&suffix=%&style=social">
-  <img style="float: left; margin-rigth: 15px;" src="https://lisboadas.info/api/badge/1/ping/720?labelPrefix=&label=30&labelSuffix=d&prefix=&suffix=ms&style=social">
+  <img style="float: left; margin-rigth: 15px;" src="https://lisboadas.info/api/badge/1/status?upLabel=VPS%20BOTS%201&downLabel=VPS%20BOTS%201&style=for-the-badge">
+  <img style="float: left; margin-rigth: 15px;" src="https://lisboadas.info/api/badge/1/uptime/720?labelPrefix=&label=Uptime&labelSuffix=&prefix=&suffix=%&style=for-the-badge">
+  <img style="float: left; margin-rigth: 15px;" src="https://lisboadas.info/api/badge/1/ping/720?labelPrefix=&label=30&labelSuffix=d&prefix=&suffix=ms&style=for-the-badge">
 </div>
 <div>
-  <img style="float: left; margin-rigth: 15px;" src="https://lisboadas.info/api/badge/2/status?upLabel=VPS%20BOTS%202&downLabel=VPS%20BOTS%202">
-  <img style="float: left; margin-rigth: 15px;" src="https://lisboadas.info/api/badge/2/uptime/720?labelPrefix=&label=Uptime&labelSuffix=&prefix=&suffix=%&style=social">
-  <img style="float: left; margin-rigth: 15px;" src="https://lisboadas.info/api/badge/2/ping/720?labelPrefix=&label=30&labelSuffix=d&prefix=&suffix=ms&style=social">
+  <img style="float: left; margin-rigth: 15px;" src="https://lisboadas.info/api/badge/2/status?upLabel=VPS%20BOTS%202&downLabel=VPS%20BOTS%202&style=for-the-badge">
+  <img style="float: left; margin-rigth: 15px;" src="https://lisboadas.info/api/badge/2/uptime/720?labelPrefix=&label=Uptime&labelSuffix=&prefix=&suffix=%&style=for-the-badge">
+  <img style="float: left; margin-rigth: 15px;" src="https://lisboadas.info/api/badge/2/ping/720?labelPrefix=&label=30&labelSuffix=d&prefix=&suffix=ms&style=for-the-badge">
 </div>
