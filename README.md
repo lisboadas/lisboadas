@@ -32,17 +32,27 @@ Here are some ideas to get you started:
   ### Status Services:
   
 <div>
-  <img style="float: left; margin-rigth: 15px;" src="https://lisboadas.info/api/badge/1/status?upLabel=VPS%20BOTS%201&downLabel=VPS%20BOTS%201&style=for-the-badge">
+  <img style="float: left; margin-rigth: 15px;" src="https://lisboadas.info/api/badge/1/status?upLabel=NODE%20BOTS%201&downLabel=VPS%20BOTS%201&style=for-the-badge">
   <img style="float: left; margin-rigth: 15px;" src="https://lisboadas.info/api/badge/1/uptime/720?labelPrefix=&label=Uptime&labelSuffix=&prefix=&suffix=%&style=for-the-badge">
   <img style="float: left; margin-rigth: 15px;" src="https://lisboadas.info/api/badge/1/ping/720?labelPrefix=&label=30&labelSuffix=d&prefix=&suffix=ms&style=for-the-badge">
 </div>
 <div>
-  <img style="float: left; margin-rigth: 15px;" src="https://lisboadas.info/api/badge/85/status?upLabel=VPS%20BOTS%202&downLabel=VPS%20BOTS%202&style=for-the-badge">
+  <img style="float: left; margin-rigth: 15px;" src="https://lisboadas.info/api/badge/85/status?upLabel=NODE%20BOTS%202&downLabel=VPS%20BOTS%202&style=for-the-badge">
   <img style="float: left; margin-rigth: 15px;" src="https://lisboadas.info/api/badge/85/uptime/720?labelPrefix=&label=Uptime&labelSuffix=&prefix=&suffix=%&style=for-the-badge">
   <img style="float: left; margin-rigth: 15px;" src="https://lisboadas.info/api/badge/85/ping/720?labelPrefix=&label=30&labelSuffix=d&prefix=&suffix=ms&style=for-the-badge">
 </div>
 <div>
-  <img style="float: left; margin-rigth: 15px;" src="https://lisboadas.info/api/badge/2/status?upLabel=VPS%20BOTS%20CPX&downLabel=VPS%20BOTS%20CPX&style=for-the-badge">
+  <img style="float: left; margin-rigth: 15px;" src="https://lisboadas.info/api/badge/97/status?upLabel=NODE%20BOTS%203&downLabel=VPS%20BOTS%202&style=for-the-badge">
+  <img style="float: left; margin-rigth: 15px;" src="https://lisboadas.info/api/badge/97/uptime/720?labelPrefix=&label=Uptime&labelSuffix=&prefix=&suffix=%&style=for-the-badge">
+  <img style="float: left; margin-rigth: 15px;" src="https://lisboadas.info/api/badge/97/ping/720?labelPrefix=&label=30&labelSuffix=d&prefix=&suffix=ms&style=for-the-badge">
+</div>
+<div>
+  <img style="float: left; margin-rigth: 15px;" src="https://lisboadas.info/api/badge/98/status?upLabel=NODE%20BOTS%204&downLabel=VPS%20BOTS%202&style=for-the-badge">
+  <img style="float: left; margin-rigth: 15px;" src="https://lisboadas.info/api/badge/98/uptime/720?labelPrefix=&label=Uptime&labelSuffix=&prefix=&suffix=%&style=for-the-badge">
+  <img style="float: left; margin-rigth: 15px;" src="https://lisboadas.info/api/badge/98/ping/720?labelPrefix=&label=30&labelSuffix=d&prefix=&suffix=ms&style=for-the-badge">
+</div>
+<div>
+  <img style="float: left; margin-rigth: 15px;" src="https://lisboadas.info/api/badge/2/status?upLabel=NODE%20BOTS%20CPX&downLabel=VPS%20BOTS%20CPX&style=for-the-badge">
   <img style="float: left; margin-rigth: 15px;" src="https://lisboadas.info/api/badge/2/uptime/720?labelPrefix=&label=Uptime&labelSuffix=&prefix=&suffix=%&style=for-the-badge">
   <img style="float: left; margin-rigth: 15px;" src="https://lisboadas.info/api/badge/2/ping/720?labelPrefix=&label=30&labelSuffix=d&prefix=&suffix=ms&style=for-the-badge">
 </div>
