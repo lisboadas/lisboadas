@@ -29,4 +29,4 @@ Here are some ideas to get you started:
   <a href="https://lisboadas.art/" target="_blank"><img style="float: left; margin-right: 15px;" src="https://lisboadas.dev/images/github/portfolio%20social%20github.png" /></a>
 </div>
   
-<b><a href="https://lisboadas.status" target="_blank">### Status Services:</a></b>
+<b><a href="https://lisboadas.status" target="_blank">- STATUS SERVICES -</a></b>
