@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://lisboadas.dev/">
+
   <div>
-<!--     <img style="float: left; margin-right: 5px; height: 250px;" src="https://github-readme-stats.vercel.app/api?username=lisboadas&show_icons=true&theme=synthwave&count_private=true&hide_border=true&include_all_commits=true&locale=pt-br" /> -->
-    <img style="float: left; margin-right: 5px; height: 250px" src="https://github-readme-stats.vercel.app/api/wakatime?username=Lisboadas&theme=synthwave&hide_border=true&compact=true&show_icons=true&range=last_7_days&langs_count=8&locale=pt-br"
+<!--     <img style="float: left; margin-right: 5px; height: 230px;" src="https://github-readme-stats.vercel.app/api?username=lisboadas&show_icons=true&theme=synthwave&count_private=true&hide_border=true&include_all_commits=true&locale=pt-br" /> -->
+    <a href="https://lisboadas.dev/"> <img style="float: left; margin-right: 5px; height: 230px" src="https://github-readme-stats.vercel.app/api/wakatime?username=Lisboadas&theme=synthwave&hide_border=true&compact=true&show_icons=true&range=last_7_days&langs_count=8&locale=pt-br"/> </a><br>
+    <a href="https://wakatime.com/@654066f8-0bd5-4262-829d-0d51cdd932da"><img src="https://wakatime.com/badge/user/654066f8-0bd5-4262-829d-0d51cdd932da.svg?style=for-the-badge" alt="Total time coded since Aug 30 2021" /></a>
   </div>
-</a>
 
 ### Redes Sociais:
   
@@ -27,7 +27,6 @@ Here are some ideas to get you started:
   <a href="https://discord.gg/Hr8xZ6D" target="_blank"><img style="float: left; margin-right: 15px;" src="https://lisboadas.dev/images/github/discord%20social%20github.png" /></a>
   <a href="https://instagram.com/lisboadas" target="_blank"><img style="float: left; margin-right: 15px;" src="https://lisboadas.dev/images/github/instagram%20social%20github.png" /></a>
   <a href="https://lisboadas.art/" target="_blank"><img style="float: left; margin-right: 15px;" src="https://lisboadas.dev/images/github/portfolio%20social%20github.png" /></a>
-  <a href="https://wakatime.com/@654066f8-0bd5-4262-829d-0d51cdd932da"><img src="https://wakatime.com/badge/user/654066f8-0bd5-4262-829d-0d51cdd932da.svg?style=for-the-badge" alt="Total time coded since Aug 30 2021" /></a>
 </div>
   
-<b><a href="https://lisboadas.info" target="_blank">- STATUS SERVICES -</a></b>
+<b><a href="https://lisboadas.info" target="_blank">Service Status</a></b>
